@@ -1,8 +1,8 @@
-## Fertilizer-Recommendation-via-Machine-Learning-Using-Crop-and-Weather-Data
+# Fertilizer-Recommendation-via-Machine-Learning-Using-Crop-and-Weather-Data
 This project develops a machine learning model to recommend fertilizers based on soil, crop, and environmental data. It is a multi-class classification problem using features like nutrients, pH, climate, and crop type. Challenges include mixed data and imbalance. Performance is evaluated using precision, recall, and F1-score.
 
 
-# METHODOLOGY 
+## METHODOLOGY 
 1. Data Acquisition 
 The success of any machine learning project relies heavily on the quality and comprehensiveness of 
 the data used. This project utilizes two primary data sources critical for fertilizer recommendation:
